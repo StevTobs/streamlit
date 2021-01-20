@@ -18,10 +18,12 @@ __Environment Required__
 - Python IDE
 - https://pypi.org/ : the way to get any package you want to use.
 
-## setup environment
+## setup environment 
+> streamlit_env
 
 For anaconda use.
 
 > conda init
-> conda activate pipenv
-> pipenv install streamlit pandas numpy seaborn matplotlib altair plotly
+> conda create --name streamlit_env python=3.7
+> conda activate streamlit_env
+> streamlit_env install streamlit pandas numpy seaborn matplotlib altair plotly
