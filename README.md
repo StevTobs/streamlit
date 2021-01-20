@@ -16,3 +16,4 @@ __streamlit__ is an open-source app framework for Machine Learning and Datascien
 
 __Environment Required__
 - Python IDE
+- https://pypi.org/ : the way to get any package you want to use.
