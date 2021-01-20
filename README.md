@@ -9,7 +9,7 @@ __Where to Get Help?__
 * https://stackoverflow.com/questions/tagged/streamlit
 * https://blog.streamlit.io/
 
-![alt text](steamit/Screen Shot 2021-01-21 at 04.41.54.png)
-![stack Overflow](http://lmsotfy.com/so.png)
+![Streamlit](https://raw.githubusercontent.com/StevTobs/streamlit/main/Screen%20Shot%202021-01-21%20at%2004.41.54.png)
+
 
 __streamlit__ is an open-source app framework for Machine Learning and Datascience teams. It allows you to create beautiful data apps in hours, not weeks.
