@@ -17,3 +17,11 @@ __streamlit__ is an open-source app framework for Machine Learning and Datascien
 __Environment Required__
 - Python IDE
 - https://pypi.org/ : the way to get any package you want to use.
+
+## setup environment
+
+For anaconda use.
+
+> conda init
+> conda activate pipenv
+> pipenv install streamlit pandas numpy seaborn matplotlib altair plotly
