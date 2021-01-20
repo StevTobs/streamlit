@@ -13,3 +13,6 @@ __Where to Get Help?__
 
 
 __streamlit__ is an open-source app framework for Machine Learning and Datascience teams. It allows you to create beautiful data apps in hours, not weeks.
+
+__Environment Required__
+- Python IDE
