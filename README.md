@@ -42,5 +42,7 @@ To start Streamlit app.py file
 
 
 > pip2 install streamlit -U
+
 or
+
 > pip3 install streamlit -U
