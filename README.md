@@ -33,6 +33,7 @@ For anaconda use.
 
 [virtual enviroment info](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/#:~:text=Activate%20your%20virtual%20environment.&text=To%20see%20a%20list%20of%20all%20your%20environments,the%20command%20conda%20info%20%2De%20.)
 
+Guide to Running Python from Terminal: [link](https://cs.brown.edu/courses/csci0040/CS4_Python_Terminal_Guide.pdf)
 
 To start Streamlit app.py file
 
