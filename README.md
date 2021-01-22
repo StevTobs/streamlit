@@ -48,5 +48,8 @@ or
 
 > pip3 install streamlit -U
 
-See the streamlit version
+See the streamlit version:
 > streamlit --version
+
+See more commands:
+> streamlit --help
