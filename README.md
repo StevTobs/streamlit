@@ -40,6 +40,7 @@ To start Streamlit app.py file
 
 ## Display Text in Streamlit
 
+For upgraded version, we can install as:
 
 > pip2 install streamlit -U
 
