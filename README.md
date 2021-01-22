@@ -47,3 +47,6 @@ We can upgrade by:
 or
 
 > pip3 install streamlit -U
+
+See the streamlit version
+> streamlit --version
