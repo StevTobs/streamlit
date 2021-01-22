@@ -37,3 +37,10 @@ For anaconda use.
 To start Streamlit app.py file
 
 > streamlit run app.py
+
+## Display Text in Streamlit
+
+
+> pip2 install streamlit -U
+or
+> pip3 install streamlit -U
